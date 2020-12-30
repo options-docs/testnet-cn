@@ -934,7 +934,7 @@ timestamp | LONG | YES |  |
  
  在具有有效listenKey的帐户上执行POST将返回当前有效的listenKey并将其有效期延长60分钟
  
- websocket接口的baseurl: wss://testnetws.binanceops.com:9443
+ websocket接口的baseurl: wss://testnetws.binanceops.com
  
  U订阅账户数据流的stream名称为 /ws/<listenKey> 或 /stream?streams=<listenKey>
  
